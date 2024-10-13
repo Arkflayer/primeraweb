@@ -1,0 +1,16 @@
+div {
+    border-style: solid;
+    border-width: 1px;
+    background-color: rgb(14, 3, 43);
+    padding: 50px;
+    width: 100%;
+    margin: -7px -7px 0px -7px;
+    color: white;
+    font-size: 50px;
+}
+
+.botton {
+    list-style: none;
+    display: inline;
+    margin: 40px;
+}
